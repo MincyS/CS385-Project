@@ -1,4 +1,4 @@
-export const venueList = [
+venueList = [
   {
     id: 1,
     venuename: "The Clubhouse at Fota Island Resort, Cork",
