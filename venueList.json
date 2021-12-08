@@ -1,4 +1,4 @@
-venueList = [
+{venueList = [
   {
     id: 1,
     venuename: "The Clubhouse at Fota Island Resort, Cork",
@@ -35,4 +35,4 @@ venueList = [
     capacity: 280,
     pricepp: 85
   }
-];
+]}
