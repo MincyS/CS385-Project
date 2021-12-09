@@ -35,6 +35,12 @@
          "venuename": "Radisson Blu St Helens, Dublin",
          "capacity": 280,
          "pricepp": 85
+      },
+       {
+         "id": 7,
+         "venuename": "Radisson Blu St Helens, Cork",
+         "capacity": 50,
+         "pricepp": 60
       }
    ]
 }
